@@ -1,7 +1,7 @@
 <h1>Python RPG Game</h1>
 
 <h2>Description</h2>
-This is a text based game using python classes. This project was made to practice python and make something fun.  
+This is a text based game using python. This project was made to practice python and make something fun.  
 <br />
 
 
